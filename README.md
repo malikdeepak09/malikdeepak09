@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats
    
-(https://github.com/boazcstrike/github-readme-stats)
+
 <br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=malikdeepak09&theme=github_dark&hide_border=false)<br/>
